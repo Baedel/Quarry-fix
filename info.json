@@ -1,0 +1,15 @@
+{
+    "name": "Quarry-fix",
+    "version": "1.6.9",
+    "title": "Quarry v0.16",
+    "author": "Baedel (0.16 compatibility fix); original byFuzzCat927, Optera",
+    "description": "Mine ores without an ore patch. Probably compatible with any mod.\nAll thanks to the Quarry Mod authors FuzzCat927 and Optera.\nOnly available as long as the originalmod has not been updated",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies":
+    [
+      "base >= 0.16.0",
+      "? angelsinfiniteores >= 0.5.4",
+      "? Quarry >= 1.6.7"
+    ]
+}
